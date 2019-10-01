@@ -2680,6 +2680,13 @@ input, select, textarea {
 				width: 100%;
 			}
 
+.rotate-90 {
+    -webkit-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+            transform: rotate(90deg);
+}
+
+
 /* List */
 
 	ol {
